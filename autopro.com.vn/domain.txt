@@ -1,0 +1,17 @@
+autopro.com.vn 
+www.youtube.com 
+adnetwork.admicro.vn 
+adx.admicro.vn 
+admicro.vn 
+www.google-analytics.com 
+lg1.logging.admicro.vn 
+media1.admicro.vn 
+www.googletagmanager.com 
+deqik.com 
+adi.admicro.vn 
+static.mediacdn.vn 
+static.contineljs.com 
+sentry.mediacdn.vn 
+autopro8.mediacdn.vn 
+adminplayer.sohatv.vn 
+static.amcdn.vn 

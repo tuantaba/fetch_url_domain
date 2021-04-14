@@ -1,0 +1,12 @@
+lg1.logging.admicro.vn 
+ictvietnam.vn 
+ 
+static.contineljs.com 
+connect.facebook.net 
+static.amcdn.vn 
+www.google-analytics.com 
+www.googletagmanager.com 
+deqik.com 
+media1.admicro.vn 
+static.mediacdn.vn 
+apis.google.com 
